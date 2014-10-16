@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bbd:home|Door43 (bbd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bbd|d43-bbd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bbd/archive/master.zip|d43-bbd.zip]]
+
+**Recent Changes**
+{{changes>ns = bbd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bbd|Ethnologue data]]
+
